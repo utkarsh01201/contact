@@ -19,16 +19,16 @@ contact_db/
 ```
 
 ## Features
-- ✓ Add new contacts
-- ✓ View all contacts
-- ✓ Search contacts by name or email
-- ✓ Update contact information
-- ✓ Delete contacts
-- ✓ View individual contact details
-- ✓ Display statistics
-- ✓ Platform independent (Windows, Linux, Mac)
-- ✓ Easy database configuration
-- ✓ Better error handling and messages
+-  Add new contacts
+-  View all contacts
+-  Search contacts by name or email
+-  Update contact information
+-  Delete contacts
+-  View individual contact details
+-  Display statistics
+-  Platform independent (Windows, Linux, Mac)
+-  Easy database configuration
+-  Better error handling and messages
 
 ## Prerequisites
 - Java JDK 8 or higher
